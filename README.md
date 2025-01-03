@@ -4,7 +4,7 @@ I am a Network Security Engineer, and a Cybersecurity and Cloud enthusiast.
 
 I have a BS degree in Business Informatics and also CCNA, NSE4, CCSA and AZ-900 certifications.
 
-Topics related to IT-Infrastructure, security and automation are my area of expertise and constant learning: Firewalling, Python programming, automation, traffic analysis and Cloud.
+Topics related to IT-Infrastructure, security and automation are my area of expertise and constant learning: Firewalling, Python programming, automation, traffic analysis and Cloud. I am currently trying to update cosntantly my portfolio with new and old projects.
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
