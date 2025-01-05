@@ -10,8 +10,14 @@ Topics related to IT-Infrastructure, security and automation are my area of expe
 
 - <b>Password-Hacking-Hash-Injection-Attack - Proof-of-Concept</b>
   - [Password-Hacking-Hash-Injection-Attack](https://github.com/MathiasHoffmann100/Password-Hacking-Hash-Injection-Attack---Proof-of-Concept)
+- <b>Malware-Analysis in FTP Traffic with Wireshark</b>
+  - [Malware-Analysis-in-FTP-Traffic-w-Wireshark](https://github.com/MathiasHoffmann100/Malware-Analysis-in-FTP-traffic-w-Wireshark)
 - <b>Network-Traffic-Analysis-with-Wireshark</b>
-  - [Network-Traffic-Analysis-with-Wireshark](https://github.com/MathiasHoffmann100/Network-Traffic-Analysis-with-Wireshark) <b><i>
+  - [Network-Traffic-Analysis-with-Wireshark](https://github.com/MathiasHoffmann100/Network-Traffic-Analysis-with-Wireshark)
+- <b>HTTP-Traffic: Wireshark-Threat-Analysis</b>
+  - [Wireshark-HTTP-Traffic-Analysis](https://github.com/MathiasHoffmann100/Wireshark-HTTP-Traffic-Analysis) <b><i>
+
+// COPY TEST BELOW
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
